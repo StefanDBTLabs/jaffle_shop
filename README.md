@@ -1,4 +1,4 @@
-CHANGE 2
+CHANGE 3
 
 ## Testing dbt project: `jaffle_shop`
 
