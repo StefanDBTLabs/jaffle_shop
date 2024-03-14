@@ -49,6 +49,7 @@ final as (
 
     select
         customers.customer_id,
+        'craig' as friend,
         customers.first_name,
         customers.last_name,
         customer_orders.first_order,
